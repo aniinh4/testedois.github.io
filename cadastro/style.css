@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #F0FBEF;
+}
+main {
+  width: 1920px;
+  float: left;
+  position: relative;
+}
+h1{
+  color: #617C7B
+}
+.titulo{
+text-align: left;
+
+}
+
+.centro{
+  position: absolute;
+  left: 42%;
+  top: 50%;
+  text-align: center;
+ 
+}
+
+.botoes{
+  width: 310px;
+display: flex;
+justify-content: center;
+  size: 400px;
+}
+
+h2{
+  color: #9CC398;
+  text-align: center;
+  font-size:40;
+}
+
+ <h2 style class="gana"=": Economica;">Gana Medicine</h2>
